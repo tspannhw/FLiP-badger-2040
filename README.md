@@ -11,3 +11,6 @@
 * https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/badger2040
 * https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/examples/badger2040/badge.py
 * https://github.com/pimoroni/pimoroni-pico/releases
+* https://learn.pimoroni.com/article/getting-started-with-pico
+* https://thonny.org/
+* https://codewith.mu/
